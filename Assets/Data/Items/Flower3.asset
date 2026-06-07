@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b114d3754453f864bae1ee37655e75b2, type: 3}
+  m_Name: Flower3
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  _itemName: Flower3
+  _itemIcon: {fileID: 5491812869589600455, guid: 74bf5f33fe943394cb1619b30e57730f, type: 3}
+  _category: 1
+  _prefabToSpawn: {fileID: 4046978192910157739, guid: 61df09910095cb1458c840476c1d3760, type: 3}
+  _tileToPaint: {fileID: 0}
+  _happinessBoost: 0
+  _foodValue: 0

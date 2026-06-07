@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09e3719d8ec2b264c95d75abb390bbcc, type: 3}
+  m_Name: LasiusNigerData
+  m_EditorClassIdentifier: Assembly-CSharp::AntSpeciesData
+  _speciesCommonName: Black Garden Ant
+  _speciesScientificName: Lasius Niger
+  _workerPrefab: {fileID: 0}
+  _queenPrefab: {fileID: 0}
+  _preferredSoilType: 0
+  _maxExcavationPercentage: 0.4
+  _tunnelDigDelay: 2
+  _chamberSize: 3

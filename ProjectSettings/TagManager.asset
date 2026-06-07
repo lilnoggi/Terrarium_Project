@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Decor
+  - Terrarium
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Dirt
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackgroundGlass
+    uniqueID: 3441493475
+    locked: 0
+  - name: Terrarin
+    uniqueID: 1078298441
+    locked: 0
+  - name: PlantsAndDecor
+    uniqueID: 3879674681
+    locked: 0
+  - name: BackgroundTestTube
+    uniqueID: 2464029939
+    locked: 0
+  - name: Ants
+    uniqueID: 270501173
+    locked: 0
+  - name: ForegroundTestTube
+    uniqueID: 416471623
+    locked: 0
+  - name: TestTubeHighlight
+    uniqueID: 2924968021
+    locked: 0
+  - name: ForegroundGlass
+    uniqueID: 804809799
+    locked: 0
+  m_RenderingLayers:
+  - Default
